@@ -1,0 +1,16 @@
+{
+  "short_name": "Restaurants",
+  "name": "Restaurants Finder",
+  "icons": [
+    {
+      "src": "imgs/icon.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/Restaurants_Finder/",
+  "theme_color": "#3367D6"
+}
